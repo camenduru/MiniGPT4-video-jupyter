@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MiniGPT4-video-jupyter/blob/main/MiniGPT4_video_jupyter.ipynb) | MiniGPT4_video_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MiniGPT4-video-jupyter/blob/main/MiniGPT4_video_jupyter.ipynb) | MiniGPT4_video_jupyter (😭 Pro Colab ~16GB VRAM)
 
 ### 🧬 Code
 https://github.com/Vision-CAIR/MiniGPT4-video
